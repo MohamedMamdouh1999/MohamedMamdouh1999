@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align= "center"><b>Hello World! :earth_africa:</b></h1>
 
-<!--
-**MohamedMamdouh1999/MohamedMamdouh1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+I am a Junior Front End Developer from Egypt :egypt:.
+</p>
+<p align="center">
+Fascinated about infinite space. Occupy Mars! :rocket:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me :mortar_board:
+I am a Junior Front End Developer, currently graduation from Route Academy of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+
+## What I know :computer:
+- **Frontend Development**
+	- HTML, CSS and Javascript :white_check_mark:
+	- Bootstrap
+  - jQuery
+  - SASS
+  - Angular
+
+## What I want to do next :thinking:
+- React.js with Redux (to become a Front End Developer (Angular | React.js))
+- Backend Development (Node.js) (to become a Full-Stack developer)
+
+## Reach me 
+[![Github](https://img.shields.io/github/followers/MohamedMamdouh1999?label=Follow&style=social)](https://github.com/MohamedMamdouh1999)
+[![Linkedin](https://img.shields.io/badge/-Mohamed%20Mamdouh-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-mamdouh-bb1bb324b/)](https://www.linkedin.com/in/mohamed-mamdouh-bb1bb324b/)
+[![Mail](https://img.shields.io/badge/-mohamed0155532@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/mohamed-mamdouh-bb1bb324b/)](mailto:mohamed0155532@gmail.com)
+
+
+### Interesting stats
+
+![Mohamed's stats](https://github-readme-stats.vercel.app/api?username=MohamedMamdouh1999&show_icons=true)
+
+Thanks for stopping by! 😁
