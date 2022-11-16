@@ -14,10 +14,13 @@ I am a Junior Front End Developer, currently graduation from Route Academy of Te
 ## What I know :computer:
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
+	- Typescript
 	- Bootstrap
   - jQuery
   - SASS
   - Angular
+  - RXjs
+  - Git & GitHub
 
 ## What I want to do next :thinking:
 - React.js with Redux (to become a Front End Developer (Angular | React.js))
