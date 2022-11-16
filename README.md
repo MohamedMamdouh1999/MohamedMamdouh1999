@@ -14,6 +14,7 @@ I am a Junior Front End Developer, currently graduation from Route Academy of Te
 ## What I know :computer:
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
+	- ES6+
 	- Typescript
 	- Bootstrap
   - jQuery
