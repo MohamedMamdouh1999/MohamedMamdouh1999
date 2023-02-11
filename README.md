@@ -9,24 +9,25 @@ Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
 ## About me :mortar_board:
-I am a Junior Front End Developer, currently graduation from Route Academy of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a Junior Front End Developer, currently graduation from Route Company of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Frontend Development**
-	- HTML5, CSS3 and Javascript :white_check_mark:
-	- ES6+
+	- HTML, HTML5, CSS and CSS3 :white_check_mark:
+	- Javascript and ES6+
 	- Typescript
   - jQuery
   - Bootstrap5
   - SCSS
   - Angular
-  - RXjs
+  - RXJS
+  - Unit-Testing: Jasmine
   - Git
   - GitHub
 
 ## What I want to do next :thinking:
 - React.js with Redux (to become a Front End Developer (Angular | React.js))
-- Backend Development (Node.js) (to become a Full-Stack developer)
+- Backend Development (Node.js) (to become a Full-Stack developer or Mean-Stack or Mearn-Stack)
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/MohamedMamdouh1999?label=Follow&style=social)](https://github.com/MohamedMamdouh1999)
