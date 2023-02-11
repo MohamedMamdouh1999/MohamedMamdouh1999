@@ -13,7 +13,7 @@ I am a Junior Front End Developer, currently graduation from Route Company of Te
 
 ## What I know :computer:
 - **Frontend Development**
-	- HTML, HTML5, CSS and CSS3 :white_check_mark:
+	- HTML, HTML5, CSS and CSS3
 	- Javascript and ES6+
 	- Typescript
   - jQuery
