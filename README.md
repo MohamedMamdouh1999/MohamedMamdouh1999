@@ -2,14 +2,14 @@
 
 
 <p align="center">
-I am a Junior Front End Developer from Egypt :egypt:.
+I am a Front End Developer from Egypt :egypt:.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
 ## About me :mortar_board:
-I am a Junior Front End Developer, currently graduation from Route Company of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a Front End Developer, currently graduation from Route Company of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Frontend Development**
