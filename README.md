@@ -22,9 +22,10 @@ I am a Front End Developer, currently graduation from faculty of law. From very 
   - SCSS
   - Angular
   - RXJS
-  - Unit-Testing: Jasmine
   - Git
   - GitHub
+
+- **Unit-Testing: Jasmine
 
 ## What I want to do next :thinking:
 - React.js with Redux (to become a Front End Developer (Angular | React.js))
