@@ -27,6 +27,11 @@ I am a Front End Developer, currently graduation from faculty of law. From very 
 
 - **Unit-Testing**
 	-  Jasmine
+	-  Karma
+
+- **Others**
+	-  Postman API
+	-  Adobe XD
 
 ## What I want to do next :thinking:
 - React.js with Redux (to become a Front End Developer (Angular | React.js))
