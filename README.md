@@ -21,13 +21,8 @@ I am a Front End Developer, currently graduation from faculty of law. From very 
   - Bootstrap5
   - SCSS
   - Angular
-  - RXJS
   - Git
   - GitHub
-
-- **Unit-Testing**
-	-  Jasmine
-	-  Karma
 
 - **Others**
 	-  Postman API
