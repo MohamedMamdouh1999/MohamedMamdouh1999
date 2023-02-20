@@ -15,18 +15,23 @@ I am a Front End Developer, currently graduation from faculty of law. From very 
 - **Frontend Development**
 	- HTML - HTML5
 	- CSS - CSS3
-	- Javascript - ES6+
+	- Javascript
+	- ES6+
+	- JSON
+	- AJAX
+	- Restful APIS
 	- Typescript
   - jQuery
   - Bootstrap5
   - SCSS
   - Angular
+  - RXJS
   - Git
   - GitHub
 
 - **Others**
 	-  Postman API
-	-  Adobe XD
+	-  Figma
 
 ## What I want to do next :thinking:
 - React.js with Redux (to become a Front End Developer (Angular | React.js))
