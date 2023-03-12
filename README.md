@@ -20,6 +20,7 @@ I am a Front End Developer, currently graduation from faculty of law. From very 
 	- JSON
 	- AJAX
 	- Restful APIS
+	- Regular Expression
 	- Typescript
   - jQuery
   - Bootstrap5
