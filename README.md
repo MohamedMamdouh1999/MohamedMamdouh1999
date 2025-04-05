@@ -21,6 +21,7 @@ I am a Front End Developer, currently graduation from faculty of law. From very 
   - Sass (SCSS)
   - Bootstrap
   - Angular
+  - RXJS
 
 - **Others**
 	-  GitHub
