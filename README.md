@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I am a Front End Developer from Egypt :egypt:.
+I am a Front End Developer.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
@@ -13,30 +13,21 @@ I am a Front End Developer, currently graduation from faculty of law. From very 
 
 ## What I know :computer:
 - **Frontend Development**
-	- HTML - HTML5
-	- CSS - CSS3
+	- HTML
+	- CSS
 	- Javascript
 	- ES6+
-	- JSON
-	- AJAX
-	- Restful APIS
-	- Regular Expression
 	- Typescript
-  - jQuery
-  - Bootstrap5
-  - SCSS
+  - Sass (SCSS)
+  - Bootstrap
   - Angular
-  - Angular Material Design
-  - RXJS
-  - Git
-  - GitHub
 
 - **Others**
-	-  Postman API
+	-  GitHub
 	-  Figma
-	-  Agile
 
 ## What I want to do next :thinking:
+- NGRX
 - React.js with Redux (to become a Front End Developer (Angular | React.js))
 - Backend Development (Node.js) (to become a Full-Stack developer or Mean-Stack or Mearn-Stack)
 
